@@ -1,0 +1,3 @@
+This is my file3
+
+I have modified file 3 LINE 3
